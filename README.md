@@ -31,3 +31,13 @@ The repository is organized as follows:
     ├── ...
     ├── species_n                             # Another test species
     └
+
+To initialize a folder structure for a new species, run
+`bin/bin/createSpeciesFolder.sh` script. For example, _Drosophila
+melanogaster_ folder can be initialized as:
+    
+    ./bin/createSpeciesFolder.sh Drosophila_melanogaster species family order
+
+First argument defines species name, remaining arguments define protein
+exclusion levels.
+    
