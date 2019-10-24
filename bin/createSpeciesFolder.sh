@@ -38,19 +38,19 @@ ln -s "../../../EukSpecies/$species/data/genome.fasta.masked" data
 for level in "${exclusionLevels[@]}"; do
     mkdir -p prothint/${level}_excluded
     echo -n $prothintFiles | xargs -d " " -I{} ln -s \
-            "../../../../prothint/$species/${level}_excluded/{}" \
+            "../../../../prothint-ep-exp/$species/${level}_excluded/{}" \
             "prothint/${level}_excluded"
 done
 
 # ES folder
 mkdir es
-ln -s "../../../prothint/$species/ESm/genemark.gtf" es
+ln -s "../../../prothint-ep-exp/$species/ESm/genemark.gtf" es
 
 # EP folders
 for level in "${exclusionLevels[@]}"; do
     mkdir -p ep/${level}_excluded/{train,plus}
     echo -n "train plus" | xargs -d " " -I{} ln -s \
-            "../../../../../prothint/$species/${level}_excluded/EP/{}/genemark.gtf" \
+            "../../../../../prothint-ep-exp/$species/${level}_excluded/EP/{}/genemark.gtf" \
             "ep/${level}_excluded/{}"
 done
 
