@@ -1,7 +1,8 @@
 # Overview
 
-This repository contains documentation of experiments, data and results for
-BRAKER2 project.
+This repository contains scripts and data used in the preparation of BRAKER2 (link) paper. The usage of these scripts to generate results, figures and tables presented in the paper is described in Supplementary Methods section of BRAKER2 Supplementary Data (link).
+
+TODO: Delete most of the below text...
 
 ## Folder structure
 
