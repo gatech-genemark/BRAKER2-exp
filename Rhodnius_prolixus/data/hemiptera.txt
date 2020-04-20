@@ -1,0 +1,16 @@
+Acyrthosiphon pisum
+Aphis glycines
+Bemisia tabaci
+Cimex lectularius
+Diaphorina citri
+Diuraphis noxia
+Gerris buenoi
+Halyomorpha halys
+Homalodisca vitripennis
+Myzus cerasi
+Myzus persicae
+Nilaparvata lugens
+Oncopeltus fasciatus
+Pachypsylla venusta
+Rhodnius prolixus
+Rhopalosiphum padi

@@ -1,0 +1,10 @@
+Arachis duranensis
+Cajanus cajan
+Cicer arietinum
+Glycine max
+Lupinus angustifolius
+Medicago truncatula
+Phaseolus vulgaris
+Trifolium pratense
+Trifolium subterraneum
+Vigna angularis
