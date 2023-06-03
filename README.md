@@ -7,6 +7,7 @@ Georgia Institute of Technology, Atlanta, Georgia, USA
 University of Greifswald, Greifswald, Germany
 
 Paper: [BRAKER2: automatic eukaryotic genome annotation with GeneMark-EP+ and AUGUSTUS supported by a protein database](https://academic.oup.com/nargab/article/3/1/lqaa108/6066535)  
+
 Link to [PubMed](https://pubmed.ncbi.nlm.nih.gov/33575650/)
 
 ## Overview
